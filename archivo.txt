@@ -1,1 +1,3 @@
+
 Esto es un archivo
+despues del reset esta linea tiene q desaparecer
