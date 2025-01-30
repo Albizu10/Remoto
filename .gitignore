@@ -1,1 +1,4 @@
 password.txt
+*.java
+!archivo.java
+
